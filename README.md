@@ -11,7 +11,7 @@ A curated list of awesome programming talks, articles, books, resources and more
 
 - - -
 
-## Programming Talks/Documentaries
+## Programming Talks
 
 *List of exciting talks, lectures and documentaries on programming.*
 
