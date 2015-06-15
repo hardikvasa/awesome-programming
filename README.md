@@ -42,64 +42,61 @@ A curated list of awesome programming talks, articles, books, resources and more
 
 ## Language Specific Resources
 
-*List of language specific projects, libraries, frameworks and other resources.*
+*List of language specific projects, libraries, frameworks and lots of other resources.*
 
-* [.NET](https://github.com/quozd/awesome-dotnet): The .NET Framework is a software framework developed by Microsoft that runs primarily on Microsoft Windows and provides language interoperability across several programming languages.
+* **[.NET](https://github.com/quozd/awesome-dotnet)**: The .NET Framework is a software framework developed by Microsoft that runs primarily on Microsoft Windows and provides language interoperability across several programming languages.
 
-* [C/C++](https://github.com/fffaraz/awesome-cpp): C++ is a general-purpose programming language. It has imperative, object-oriented and generic programming features, while also providing the facilities for low-level memory manipulation.
+* **[C/C++](https://github.com/fffaraz/awesome-cpp)**: C++ is a general-purpose programming language. It has imperative, object-oriented and generic programming features, while also providing the facilities for low-level memory manipulation.
 
-* [C](https://github.com/aleksandar-todorovic/awesome-c): C is a general-purpose, imperative computer programming language, supporting structured programming, lexical variable scope, recursion and a statically typed language.
+* **[C](https://github.com/aleksandar-todorovic/awesome-c)**: C is a general-purpose, imperative computer programming language, supporting structured programming, lexical variable scope, recursion and a statically typed language.
 
-* [Common Lisp](https://github.com/kozross/awesome-cl): LISP is a family of computer programming languages with a long history and a distinctive, fully parenthesized Polish prefix notation.
+* **[Common Lisp](https://github.com/kozross/awesome-cl)**: LISP is a family of computer programming languages with a long history and a distinctive, fully parenthesized Polish prefix notation.
 
-* [D](https://github.com/zhaopuming/awesome-d): The D programming language is an object-oriented, imperative, multi-paradigm system programming language
+* **[D](https://github.com/zhaopuming/awesome-d)**: The D programming language is an object-oriented, imperative, multi-paradigm system programming language
 
-* [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi): Delphi is an integrated development environment (IDE) for console, desktop graphical, web, and mobile applications.
+* **[Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)**: Delphi is an integrated development environment (IDE) for console, desktop graphical, web, and mobile applications.
 
-* [Elixir](https://github.com/h4cc/awesome-elixir): Elixir is a functional, concurrent, general-purpose programming language that runs on the Erlang Virtual Machine (BEAM). Elixir builds on top of Erlang to provide distributed, fault-tolerant, soft real-time, non-stop applications.
+* **[Elixir](https://github.com/h4cc/awesome-elixir)**: Elixir is a functional, concurrent, general-purpose programming language that runs on the Erlang Virtual Machine (BEAM). Elixir builds on top of Erlang to provide distributed, fault-tolerant, soft real-time, non-stop applications.
 
-* [Erlang](https://github.com/drobakowski/awesome-erlang): Erlang is a general-purpose, concurrent, garbage-collected programming language and runtime system.
+* **[Erlang](https://github.com/drobakowski/awesome-erlang)**: Erlang is a general-purpose, concurrent, garbage-collected programming language and runtime system.
 
-* [Fortran](https://github.com/rabbiabram/awesome-fortran): Fortran is a general-purpose, imperative programming language that is especially suited to numeric computation and scientific computing.
+* **[Fortran](https://github.com/rabbiabram/awesome-fortran)**: Fortran is a general-purpose, imperative programming language that is especially suited to numeric computation and scientific computing.
 
-* [Go](https://github.com/avelino/awesome-go): Go, also commonly referred to as golang, is a programming language developed at Google and is a statically-typed language with syntax loosely derived from that of C
+* **[Go](https://github.com/avelino/awesome-go)**: Go, also commonly referred to as golang, is a programming language developed at Google and is a statically-typed language with syntax loosely derived from that of C
 
-* [Groovy](https://github.com/kdabir/awesome-groovy): Groovy is an object-oriented programming language for the Java platform. It is a dynamic language with features similar to those of Python, Ruby and Perl. It can be used as a scripting language for the Java Platform.
+* **[Groovy](https://github.com/kdabir/awesome-groovy)**: Groovy is an object-oriented programming language for the Java platform. It is a dynamic language with features similar to those of Python, Ruby and Perl. It can be used as a scripting language for the Java Platform.
 
-* [Haskell](https://github.com/krispo/awesome-haskell): Haskell is a standardized, general-purpose purely functional programming language, with non-strict semantics and strong static typing.
+* **[Haskell](https://github.com/krispo/awesome-haskell)**: Haskell is a standardized, general-purpose purely functional programming language, with non-strict semantics and strong static typing.
 
-* [HTML5](https://github.com/diegocard/awesome-html5)
+* **[HTML5](https://github.com/diegocard/awesome-html5)**: HTML5 is a core technology markup language of the Internet used for structuring and presenting content for the World Wide Web. As of October 2014 this is the final and complete fifth revision of the HTML standard of the World Wide Web Consortium (W3C).
 
-* [Java](https://github.com/akullpp/awesome-java): Java is a general-purpose computer programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible.
+* **[Java](https://github.com/akullpp/awesome-java)**: Java is a general-purpose computer programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible.
 
-* [JavaScript](https://github.com/sorrycc/awesome-javascript): JavaScript is a dynamic programming language. It is most commonly used as part of web browsers, whose implementations allow client-side scripts to interact with the user, control the browser, communicate asynchronously, and alter the document content that is displayed.
+* **[JavaScript](https://github.com/sorrycc/awesome-javascript)**: JavaScript is a dynamic programming language. It is most commonly used as part of web browsers, whose implementations allow client-side scripts to interact with the user, control the browser, communicate asynchronously, and alter the document content that is displayed.
 
-* [Julia](https://github.com/svaksha/Julia.jl)
+* **[Julia](https://github.com/svaksha/Julia.jl)**: Julia is a high-level dynamic programming language designed to address the requirements of high-performance numerical and scientific computing while also being effective for general purpose programming, even server/web use or as a specification language.
 
-* [Lua](https://github.com/LewisJEllis/awesome-lua)
+* **[Lua](https://github.com/LewisJEllis/awesome-lua)**: Lua is a lightweight multi-paradigm programming language designed as a scripting language with extensible semantics as a primary goal.
 
+* **[OCaml](https://github.com/rizo/awesome-ocaml)**: OCaml is the main implementation of the Caml programming language, extending the core Caml language with object-oriented constructs.
 
-* [OCaml](https://github.com/rizo/awesome-ocaml)
+* **[Perl](https://github.com/hachiojipm/awesome-perl)**: Perl is a family of high-level, general-purpose, interpreted, dynamic programming language.
 
-* [Perl](https://github.com/hachiojipm/awesome-perl): Perl is a family of high-level, general-purpose, interpreted, dynamic programming language.
+* **[PHP](https://github.com/ziadoz/awesome-php)**: PHP is a server-side scripting language and designed for web development but also used as a general-purpose programming language.
 
-* [Phalcon](https://github.com/sergeyklay/awesome-phalcon)
+* **[Python](https://github.com/vinta/awesome-python)**: Python is a widely used general-purpose, high-level programming language. Its design philosophy emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code than would be possible in languages such as C++ or Java.
 
-* [PHP](https://github.com/ziadoz/awesome-php): PHP is a server-side scripting language and designed for web development but also used as a general-purpose programming language.
+* **[R](https://github.com/qinwf/awesome-R)**: R is a programming language and software environment for statistical computing and graphics.
 
-* [Python](https://github.com/vinta/awesome-python): Python is a widely used general-purpose, high-level programming language. Its design philosophy emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code than would be possible in languages such as C++ or Java.
+* **[Rails](https://github.com/ekremkaraca/awesome-rails)**: Rails, is an open source web application framework written in Ruby. Rails is a model–view–controller (MVC) framework, providing default structures for a database, a web service, and web pages.
 
-* [R](https://github.com/qinwf/awesome-R)
+* **[Ruby](https://github.com/markets/awesome-ruby)**: Ruby is a dynamic, reflective, object-oriented, general-purpose programming language.
 
-* [Rails](https://github.com/ekremkaraca/awesome-rails)
+* **[Rust](https://github.com/kud1ing/awesome-rust)**: Rust is a general-purpose, multi-paradigm, compiled programming language developed by Mozilla Research
 
-* [Ruby](https://github.com/markets/awesome-ruby)
+* **[Scala](https://github.com/lauris/awesome-scala)**: Scala is a programming language for general software applications. Scala has full support for functional programming and a very strong static type system.
 
-* [Rust](https://github.com/kud1ing/awesome-rust): Rust is a general-purpose, multi-paradigm, compiled programming language developed by Mozilla Research
-
-* [Scala](https://github.com/lauris/awesome-scala)
-
-* [Swift](https://github.com/matteocrippa/awesome-swift)
+* **[Swift](https://github.com/matteocrippa/awesome-swift)**: Swift is a multi-paradigm, compiled programming language created by Apple Inc. for iOS and OS X development.
 
 
 # Contributing
