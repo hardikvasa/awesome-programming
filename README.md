@@ -40,6 +40,21 @@ A curated list of awesome programming talks, articles, books, resources and more
 * [ALGORITHM: The Hacker Movie](https://www.youtube.com/watch?v=6qpudAhYhpc) - Documentary Movie.
 
 
+## Programming Articles
+
+*List of exciting and specifically choosen articles on computer programming.*
+
+* [What is Coding and Why is it so Important?](http://www.ibtimes.co.uk/coding-classroom-what-coding-why-it-so-important-1463157) - Anthony Cuthbertson.
+* [Programming Is the New Literacy](http://www.edutopia.org/literacy-computer-programming) - Marc Prensky.
+* [Importance of Computer Programming](http://www.ehow.com/about_6702840_importance-computer-programming.html) - David Gitonga.
+* [Four Reasons Why Kids Should Learn Programming](http://www.tynker.com/blog/articles/stem-education/four-reasons-why-kids-should-learn-programming/) - Tynker.
+* [10 Life-Changing Reasons You Should Learn to Code](http://skillcrush.com/2015/01/28/laurence-bradford-10-reasons/) - Laurence Bradford.
+* [Why You Should Learn To Code](http://www.diygenius.com/learn-to-code-online/) - Kyle Pearce.
+* [Top 5 Reasons Kids & Teens Should Learn to Code](https://www.idtech.com/blog/top-5-reasons-kids-teens-should-learn-to-code/) - Kendall.
+* [7 Reasons Why Everyone Must Learn To Code](http://lazytechguys.com/featured/10-reasons-why-anyone-must-learn-to-code#.VYB6tvm4TIU) - RADFORD C.
+* [No, Seriously, Why Should I Learn to Code?](http://inventwithpython.com/blog/2014/09/30/no-seriously-why-should-i-learn-to-code/) - AL SWEIGART.
+
+
 ## Language Specific Resources
 
 *List of language specific projects, libraries, frameworks and lots of other resources.*
