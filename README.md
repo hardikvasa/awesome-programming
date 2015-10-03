@@ -38,6 +38,7 @@ A curated list of awesome programming talks, articles, books, resources and more
 * [Too Old to Become a Developer?](https://www.youtube.com/watch?v=TPWV_8rc_5c) - Youtube.
 * [Mitch Resnick: Let's teach kids to code](http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code) - TED Talks.
 * [ALGORITHM: The Hacker Movie](https://www.youtube.com/watch?v=6qpudAhYhpc) - Documentary Movie.
+* [How to Learn to Code](https://www.youtube.com/watch?v=mvK0UzFNw1Q&feature=share) - Youtube.
 
 
 ## Programming Articles
