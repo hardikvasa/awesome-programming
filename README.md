@@ -6,6 +6,7 @@ A curated list of awesome programming talks, articles, books, resources and more
     - [Programming Talks](#programming-talks)
     - [Programming Articles](#programming-articles)
     - [Programming Books](#programming-books)
+    - [Learning Platforms](#learning-platforms)
     - [Language Specific Resources](#language-specific-resources)
 
 - - -
@@ -55,6 +56,11 @@ A curated list of awesome programming talks, articles, books, resources and more
 * [7 Reasons Why Everyone Must Learn To Code](http://lazytechguys.com/featured/10-reasons-why-anyone-must-learn-to-code#.VYB6tvm4TIU) - RADFORD C.
 * [No, Seriously, Why Should I Learn to Code?](http://inventwithpython.com/blog/2014/09/30/no-seriously-why-should-i-learn-to-code/) - AL SWEIGART.
 
+## Learning Platforms
+
+*List of platforms to learn and practice programming.*
+
+* [Paqmind.com](http://paqmind.com/) – guides and challenges to learn and improve in programming.
 
 ## Language Specific Resources
 
