@@ -39,7 +39,7 @@ A curated list of awesome programming talks, articles, books, resources and more
 * [Mitch Resnick: Let's teach kids to code](http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code) - TED Talks.
 * [ALGORITHM: The Hacker Movie](https://www.youtube.com/watch?v=6qpudAhYhpc) - Documentary Movie.
 * [How to Learn to Code](https://www.youtube.com/watch?v=mvK0UzFNw1Q&feature=share) - Youtube.
-
+* [MIT: Introducing to algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/)
 
 ## Programming Articles
 
